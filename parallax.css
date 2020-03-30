@@ -1,0 +1,87 @@
+#parallax1
+{
+	background: url(https://images.unsplash.com/photo-1545893835-abaa50cbe628?ixlib=rb-1.2.1&auto=format&fit=crop&w=2073&q=80) no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 730px;
+}
+#parallax2
+{
+	background: url(https://images.unsplash.com/photo-1507090960745-b32f65d3113a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80) no-repeat center;
+	background-size: cover;
+	height: 500px;
+	background-attachment: fixed;
+}
+#parallax3
+{
+	background: url(https://images.unsplash.com/photo-1516481402338-0443817e04c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1989&q=80) no-repeat center;
+	background-size: cover;
+	height: 500px;
+	background-attachment: fixed;
+}
+#parallax4
+{
+	background: url(https://images.unsplash.com/photo-1501607087079-27057d2fdc93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80) no-repeat center;
+	background-size: cover;
+	height: 500px;
+	background-attachment: fixed;	
+}	
+#parallax5
+{
+	background: url(https://images.unsplash.com/photo-1432611185496-76ccd1dc5efe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80) no-repeat center;
+	background-size: cover;
+	height: 500px;
+	background-attachment: fixed;
+}	
+#parallax6
+{
+	background: url(https://images.unsplash.com/photo-1513201025652-45a8a3f21311?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1948&q=80) no-repeat center;
+	background-size: cover;
+	height: 500px;
+	background-attachment: fixed;
+}	
+#parallax7
+{
+	background: url(https://images.unsplash.com/photo-1447678523326-1360892abab8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80) no-repeat center;
+	background-size: cover;
+	height: 900px;
+	background-attachment: fixed;	
+}
+#content1
+{
+	font-size: 50px;
+	font-family: fjalla One;
+	text-align: center;
+	padding: 2px;
+	border: 1px solid black;
+	width:40%;
+	background-color: rgba(0,0,0,0.4);
+	color: white;
+	margin: 35% auto;
+	text-shadow: 0px 3px 4px gray,
+				0px 4px 5px black;
+}
+#content2
+{
+	font-size: 60px;
+	font-family: fjalla One;
+	text-align: center;
+	padding: 2px;
+	border: 1px solid black;
+	width:40%;
+	background-color: rgba(90,70,90,0.6);
+	color: white;
+	margin: 35% auto;
+	text-shadow: 0px 2px 3px gray,
+				0px 5px 6px black;
+}
+.section
+{
+	font-family: merriweather;
+	color: rgba(80,80,80,1);
+	/*color: rgba(151,130,130,1);*/
+	text-align: center;
+	padding: 20px;
+	background: rgba(222,212,212,1);
+}
+
